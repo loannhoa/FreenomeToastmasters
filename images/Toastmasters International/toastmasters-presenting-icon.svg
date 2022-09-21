@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="65px" height="64px" viewBox="0 0 65 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>toastmasters-presenting-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Pro-3" transform="translate(-10.000000, -19.000000)">
+            <g id="toastmasters-presenting-icon" transform="translate(11.000000, 19.000000)">
+                <path d="M4.73902878,37.2609448 L58.2609712,37.2609448 L58.2609712,2.75593675 C58.2609712,1.64365871 57.3564,0.739055176 56.2449007,0.739055176 L6.7550993,0.739055176 C5.64360001,0.739055176 4.73902878,1.64365871 4.73902878,2.75593675 L4.73902878,37.2609448 Z M59,38 L4,38 L4,2.75593675 C4,1.23643931 5.23639515,0 6.7550993,0 L56.2449007,0 C57.7643439,0 59,1.23643931 59,2.75593675 L59,38 Z" id="Fill-3" fill="#53595A"></path>
+                <polygon id="Fill-7" fill="#53595A" points="35 64 34.2322457 64 34.2322457 44.752757 29.7677543 44.752757 29.7677543 64 29 64 29 44 35 44"></polygon>
+                <polygon id="Fill-8" fill="#53595A" points="20 33 43 33 43 32 20 32"></polygon>
+                <polygon id="Fill-9" fill="#53595A" points="20 28 43 28 43 27 20 27"></polygon>
+                <polygon id="Fill-10" fill="#53595A" points="30 23 43 23 43 22 30 22"></polygon>
+                <polygon id="Fill-11" fill="#53595A" points="30 14 37 14 37 13 30 13"></polygon>
+                <polygon id="Fill-12" fill="#53595A" points="30 18 37 18 37 17 30 17"></polygon>
+                <path d="M20.7562866,22.2713495 L27.2437134,22.2713495 L27.2437134,13.7286505 L20.7562866,13.7286505 L20.7562866,22.2713495 Z M20,23 L28,23 L28,13 L20,13 L20,23 Z" id="Fill-13" fill="#53595A"></path>
+                <path d="M14.7416511,37.2699564 L48.2583489,37.2699564 L48.2583489,18.0997422 L37.607497,6.73004357 L14.7416511,6.73004357 L14.7416511,37.2699564 Z M49,38 L14,38 L14,6 L37.9330819,6 L49,17.8150252 L49,38 Z" id="Fill-14" fill="#770D29"></path>
+                <path d="M38.7369649,18.2638315 L47.6162109,17.5349121 L38.7369649,7.88459143 L38.7369649,18.2638315 Z M49,18 L38,19 L38,6 L49,18 Z" id="Fill-15" fill="#770D29"></path>
+                <polygon id="Fill-17" stroke="#53595A" points="0 44 63 44 63 38 0 38"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
